@@ -1,7 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/import.png" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8multipleimageupload/master/images.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/list.png" width="100%">
 
 ## About
 First Step: download in your system.
